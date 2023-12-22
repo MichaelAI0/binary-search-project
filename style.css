@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#number {
+  margin: 20px 0;
+}
+
+#result {
+  margin-top: 20px;
+}
